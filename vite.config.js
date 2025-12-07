@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/',  // For Netlify deployment
+  base: '/Shannu-919_Lakshmi/',  // For GitHub Pages
   build: {
     outDir: 'docs'
   }
